@@ -1,0 +1,8 @@
+*.tags
+*.tags_sorted_by_file
+*.o
+*.c.pre
+*.c.s
+*.dump
+*.out
+*~
