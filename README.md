@@ -77,6 +77,6 @@ Now the tasks execute as required, with Task C maintaining its higher priority:
 
 # Task-oriented design 
 
-1. convert long tasks (scheduled at infrequent intervals) into much shorter tasks (scheduled at frequent intervals). 将耗时长的任务拆分我频繁执行的小任务。
+1. convert long tasks (scheduled at infrequent intervals) into much shorter tasks (scheduled at frequent intervals). 将耗时长的任务拆分为频繁执行的小任务。
 
 2. replace multiple tasks with a single task that performs different activities depending on the current state of the system. （状态机）。
